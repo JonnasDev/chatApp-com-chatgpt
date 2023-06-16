@@ -1,5 +1,5 @@
 
-const apiKey = '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'
+const apiKey = 'sua chave privada aqui'
 
 function sendMessage(){
     var message = document.getElementById('message-input')
